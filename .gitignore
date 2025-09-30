@@ -1,0 +1,29 @@
+# Secret API Keys and Environment Variables
+.env
+
+# Local Database Cache
+reviews.db
+
+# Python Virtual Environments
+# Replace 'nlp/' with the name of your venv folder if it's different
+nlp/
+venv/
+venv_stable/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and Editor Folders (Optional, but good practice)
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
